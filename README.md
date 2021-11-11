@@ -5,8 +5,7 @@
   - [Branches](#Branches)
     - [Main](#main)
     - [Development](#development)
-  - [Sprachsyntax](#sprachsyntax)
-    - [Variablen](#variablen)
+  - [Authors](#autors)
 
 
 ***
@@ -29,12 +28,6 @@ Text text
 *
 *
 
+## Authors
 
-## Sprachsyntax
-### Variablen
-Im Gegensatz zu stark typisierten Sprachen wie Java oder C# ist Python dynamisch Typisiert. Das bedeutet, dass Variablen keinem bestimmten Typ zugewiesen werden und während der Laufzeit auch mit einem anderen Typ überschrieben werden können.
-
-Eine Variable kann an jeder Stelle im Code erstellt werden. Python (ab Version 2) verfügt über einen eigenen Garbage Collector, der sich darum kümmert, nicht mehr benötigte Speicherbereiche Selbständig zu bereinigen.
-
-Eine Variable wird einfach erstellt indem der gewünschte Name, gefolgt von einem Gleichheitszeichen und dem zuzuweisenden Wert initialisiert wird.
 
