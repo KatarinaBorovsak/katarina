@@ -1,49 +1,33 @@
-# MSD Scripting - Python
+# Codeish Android - Internship Project
 
-- [MSD Scripting - Python](#msd-scripting---python)
-  - [About Python](#about-python)
-  - [Erste Schritte](#erste-schritte)
-    - [Hello World](#hello-world)
-    - [Hilfe (zur Selbsthilfe)](#hilfe-zur-selbsthilfe)
-    - [`help`](#help)
-    - [`dir`](#dir)
-    - [Online](#online)
+- [Codeish Android - Internship Project](#Codeish-Android---Internship-Project)
+  - [About the project](#about-the-project)
+  - [Branches](#Branches)
+    - [Main](#main)
+    - [Development](#development)
   - [Sprachsyntax](#sprachsyntax)
     - [Variablen](#variablen)
 
 
 ***
 
-## About Python
-* Interpretierte Programmiersprache (*Scriptsprache*)
-* Entwickelt Anfang 1990er von [Guido van Rossum](https://de.wikipedia.org/wiki/Guido_van_Rossum)
+## About the project
+* Text text
+* Text text
 
-## Erste Schritte
+## Branches
 1. Wen
 2. T
-3. B
-4. L
 
-### Hello World
-**hello.py**
-```python
-print('Hello World')
-```
-```console
-$ python3 hello.py
-Hello World
-```
+### Main
+Text text
+*
+*
 
-### Hilfe (zur Selbsthilfe)
-
-
-### [`help`](https://docs.python.org/3/library/functions.html#help)
-Mittels 
-
-
-### Online
-* 
-* 
+### Development
+Text text
+*
+*
 
 
 ## Sprachsyntax
